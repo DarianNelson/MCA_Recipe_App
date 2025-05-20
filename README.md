@@ -20,7 +20,7 @@ The backend is built with Node.js and Express and uses SQLite as the database.
    ```
 2. **Run the Server:**
     ```bash
-    npm start
+    node index.js
     ```
 3. **Seed the database with sample recipes (optional):**
     ```bash
